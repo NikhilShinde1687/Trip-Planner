@@ -1,9 +1,9 @@
 import React from 'react'
 
-const DearchResultList = () => {
+const SearchResultList = () => {
   return (
-    <div>DearchResultList</div>
+    <div>SearchResultList</div>
   )
 }
 
-export default DearchResultList
+export default SearchResultList
